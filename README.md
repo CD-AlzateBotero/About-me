@@ -19,7 +19,7 @@ Well, thanks for reading, i prefer my another username "HoneyBadger" is the name
 
 Don´t Forget
 # Honey Badger
-![HoneyBadger](https://i.postimg.cc/52xXTnJR/3be98300-3e51-4754-b6d5-8aeff7c33042.jpg)
+<img src="https://i.postimg.cc/52xXTnJR/3be98300-3e51-4754-b6d5-8aeff7c33042.jpg" width="500" height="500">
 ---
 <!--
 **CDAB-HQ/CDAB-HQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
